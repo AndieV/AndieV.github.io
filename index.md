@@ -12,3 +12,5 @@ Hier werden die verschiedenen Helden aus der Thor-Saga vorgestellt.
 > Hammer !
 > .............
 
+
+<img src="https://open.hpi.de/courses/git2020/resume"/>
